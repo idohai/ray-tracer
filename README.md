@@ -13,7 +13,7 @@ information:
 
 To use: 
 Run RayTracer.py with the following arguments:
-* [1]: Scene information file
+* [1]: Scene information file (Pool table demonstration scene included - Pool.txt)
 * [2]: Output image file name
 * [3]: Output image width
 * [4]: Output image height
